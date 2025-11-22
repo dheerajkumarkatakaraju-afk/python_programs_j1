@@ -1,0 +1,131 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e1dcc3da-8509-432e-ba08-7f574f85f3c7",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "492ec47d-4ccc-4eba-be67-b455fd6fcfd6",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c1a9f9a9-f132-4905-8413-2df604068066",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "12143684-f2af-4b38-982b-f1c65eb24a9c",
+   "metadata": {},
+   "source": [
+    "# variables In python\n",
+    "1. variables is memeory allocation to value\n",
+    "2. examples are name=\"Dheeraj\", age=35, salary=30000000.65\n",
+    "\n",
+    "## key points to define variables\n",
+    "1. variable do not start with digit\n",
+    "2. variable does not allowed special characters\n",
+    "3. do not use keywords as a variable\n",
+    "   "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "baa675e9-d1fc-4388-ae04-41e4cadd4f6f",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "sam\n",
+      "20\n",
+      "20000000\n"
+     ]
+    }
+   ],
+   "source": [
+    "name=\"sam\"\n",
+    "age=20\n",
+    "salary=20000000\n",
+    "print(name)\n",
+    "print(age)\n",
+    "print(salary)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4eddc04b-4cb2-4d61-b3d8-d65cee5c8120",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "1name=\"sam\"\n",
+    "print(name)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "150da431-9a69-4365-a3d8-de8c25b2b9be",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "name@=\"vikas\"\n",
+    "print(name@)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "142662a5-4eb1-4ab1-a21f-25958809cc33",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "while = \"dheeraj\"\n",
+    "print(while)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c67691b9-4984-423a-b6bf-bc9798cd19d5",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
